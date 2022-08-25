@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <h3> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20"></h3>
 
@@ -31,7 +31,7 @@
 </p>
 <br> -->
 
-</div>
+<!-- </div> -->
 
 <!--
 **thals0/thals0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
