@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+<h3> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20"></h3>
+
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thals0)](https://github.com/anuraghazra/github-readme-stats)
 
