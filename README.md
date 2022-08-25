@@ -1,15 +1,15 @@
 <!-- ### Hi there 👋 -->
 
-<!-- <div align="center"> -->
-
 <h3> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20"></h3>
 
 <br>
 
+<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thals0)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thals0)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thals0)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -23,15 +23,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
-  
   <br>
-  
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>&nbsp
 </p>
-<br> -->
+<br> 
 
-<!-- </div> -->
+</div>
 
 <!--
 **thals0/thals0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
