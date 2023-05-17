@@ -1,6 +1,33 @@
 <!-- ### Hi there 👋 -->
 
-공사중 .. 
+## Hi, I'm Somin, Backend developer 💻
+
+> 안녕하세요. 백엔드 개발을 공부하고 있는 이소민입니다.
+
+### Project
+
+  |프로젝트 명|설명| 성과 | Github |
+  |:----:|:----:|:----:|:----:|
+  | LabLink (랩링크) | 연구를 위한 지원자를 모집하는 기업/단체와 단기 알바를 원하는 유저간의 매칭 서비스 | [URL](http://lablink.site) | [Repo](https://github.com/LabLink-Project/LabLink-BE)
+  | Triplog (트립로그) | 여행을 하는 순간과 준비하고 기록을 남겨두는 브이로그같은 서비스 | [URL](http://13.125.234.1:3000) | [Repo](https://github.com/TripLog-project/TripLog_BE)|
+  | Data Analytics Projects | 동작구 열선도로 우선 입지선정 | 캡스톤 디자인 데이터 분석 부문 장려상 수상 | [Repo]()
+
+### Education
+  2018.03 - 2023.08 : Soongsil university Industrial and Information Systems Engineering
+
+### Experience
+  |기간|활동|역할 및 내용|
+  |---|----|---|
+  |2023.02 - 2023.06|부트캠프 항해99 13기 Server파트|백엔드 기초, 프로젝트 기획 및 Server 개발 프로젝트 수행|
+  |2023.04 - 2023.08|대학생 IT벤처 앱 런칭 동아리 **UMC** 4기 Server파트|세미나 참여 및 Server 개발 프로젝트 수행|
+
+
+### Tech Stack
+
+### ✏️ Skills
+(..)
+
+
 
 <!-- <h3> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20"></h3>
 
