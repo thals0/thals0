@@ -18,7 +18,7 @@
   |기간|활동|역할 및 내용|
   |---|----|---|
   |2023.02 - 2023.06|부트캠프 항해99 13기 Server파트|백엔드 기초, 프로젝트 기획 및 Server 개발 프로젝트 수행|
-  |2023.04 - 2023.08|대학생 IT벤처 앱 런칭 동아리 **UMC** 4기 Server파트|세미나 참여 및 Server 개발 프로젝트 수행|
+  |2023.04 - 2023.08|대학생 IT벤처 앱 런칭 동아리 UMC 4기 Server파트|세미나 참여 및 Server 개발 프로젝트 수행|
 
 
 
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
 
 **Machine learning**   
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
