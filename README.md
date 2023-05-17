@@ -21,11 +21,49 @@
   |2023.04 - 2023.08|대학생 IT벤처 앱 런칭 동아리 **UMC** 4기 Server파트|세미나 참여 및 Server 개발 프로젝트 수행|
 
 
-### Tech Stack
 
-### ✏️ Skills
-(..)
+<br> 
 
+### Skills
+
+**Fronted**   
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
+**Backend**   
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring+Boot&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Querydsl-339933?style=flat&logo=Java&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Junit5-25A162?style=flat&logo=JUnit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-DB1817?style=flat&logo=Mockito&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
+
+**Machine learning**   
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> 
+<br>
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPyn&logoColor=white"/>
+
+**DevOps**   
+<img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat&logo=Amazon+AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=Amazon+S3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_RDS-FF9900?style=flat&logo=Amazon+RDS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CodeDeploy-FF9900?style=flat&logo=Amazon+AWS&logoColor=white"/>
+
+**Tools**   
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0079BF?style=flat&logo=Trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 
 
 <!-- 
