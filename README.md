@@ -8,6 +8,7 @@
   |프로젝트 명|설명| 성과 | Github |
   |:----:|:----:|:----:|:----:|
   | LabLink (랩링크) | 연구를 위한 지원자를 모집하는 기업/단체와 단기 알바를 원하는 유저간의 매칭 서비스 | [URL](http://lablink.site) | [Repo](https://github.com/LabLink-Project/LabLink-BE)
+  | KNOCKKNOCK (낙낙) | 인맥관리 및 연락 관리 서비스 | 낙낙 IOS 어플리케이션 | [Repo](https://github.com/UMC-KnockKnock/Server)
   | Triplog (트립로그) | 여행지 추천 및 일정 관리 서비스 | [URL](http://13.125.234.1:3000) | [Repo](https://github.com/TripLog-project/TripLog_BE)|
   | Data Analytics Projects | 동작구 열선도로 우선 입지선정 | 캡스톤 디자인 데이터 분석 부문 장려상 수상 | [Repo]()
 
