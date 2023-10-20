@@ -14,7 +14,7 @@
 
 ### Education
   2018.03 - 2023.08 : Soongsil university Industrial and Information Systems Engineering
-
+<!-- 
 ### Experience
   |기간|활동|역할 및 내용|
   |---|----|---|
@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 
 
-<!-- 
+
 
 <br>
 
