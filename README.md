@@ -1,5 +1,6 @@
 <!-- <h3> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20"></h3> -->
 
+<!--
 ## I'm Somin, Backend developer 💻
 > 안녕하세요. 백엔드 개발을 공부하고 있는 이소민입니다.
 
@@ -14,6 +15,7 @@
 
 ### Education
   2018.03 - 2023.08 : Soongsil university Industrial and Information Systems Engineering
+-->  
 <!-- 
 ### Experience
   |기간|활동|역할 및 내용|
